@@ -1,0 +1,18 @@
+body {
+  background-color: #e5e5e5;
+}
+
+h1 {
+  color: #fca311;
+}
+
+.menu {
+  background-color: #14213d;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.links {
+  color: #e5e5e5;
+}
